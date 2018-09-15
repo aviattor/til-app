@@ -6,10 +6,14 @@
     <mapping directory="$PROJECT_DIR$/.build/checkouts/core.git-9210800844849382486" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/.build/checkouts/crypto.git-7980259129511365902" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/.build/checkouts/database-kit.git--3872818599693266265" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/.build/checkouts/fluent-mysql.git--2001824278331443732" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/.build/checkouts/fluent-postgresql.git-4102665397048071377" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/.build/checkouts/fluent-sqlite.git--5503918280859119093" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/.build/checkouts/fluent.git-6251908308727715749" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/.build/checkouts/http.git-9159899851620770205" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/.build/checkouts/multipart.git-4210556629793786970" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/.build/checkouts/mysql.git-1890032512239690518" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/.build/checkouts/postgresql.git-5650722971996441103" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/.build/checkouts/routing.git-5366657101075133678" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/.build/checkouts/service.git--3029908809087319447" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/.build/checkouts/sql.git-2678105727451989607" vcs="Git" />
